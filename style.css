@@ -7,7 +7,6 @@ body {
   margin: 0;
   padding: 20px;
   background-color: #fdfdfd;
-  font-family: myFirstFont, 'Playfair Display', serif;
   text-align: center;
 }
 
@@ -19,6 +18,7 @@ h1 {
   border-radius: 12px;
   letter-spacing: 6px;
   margin: 0 auto 40px;
+   font-family: myFirstFont, 'Playfair Display', serif;
   max-width: 900px;
 }
 
@@ -29,6 +29,7 @@ h1 {
   gap: 25px;
   max-width: 1000px;
   margin: 0 auto;
+  flex-wrap: wrap;
 }
 
 .box {
@@ -44,6 +45,7 @@ h1 {
 h3 {
   color: #444;
   font-size: clamp(1.4rem, 4vw, 2rem);
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   margin-bottom: 10px;
 }
 
@@ -51,6 +53,7 @@ p {
   color: #333;
   line-height: 1.6;
   font-size: clamp(1rem, 2.5vw, 1.1rem);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-top: auto;
 }
 
