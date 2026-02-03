@@ -45,7 +45,7 @@ h1 {
 h3 {
   color: #444;
   font-size: clamp(1.4rem, 4vw, 2rem);
-     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
   margin-bottom: 10px;
 }
 
